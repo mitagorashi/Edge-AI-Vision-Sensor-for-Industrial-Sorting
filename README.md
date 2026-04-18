@@ -18,7 +18,7 @@ Instead of relying on an external computer or cloud processing, the AI model run
 
 [Watch Full Demo Video](media/20260408-1632-52.1919819.mp4) 
 
-![AI Vision Dashboard](media/lol.gif))
+![AI Vision Dashboard](media/lol.gif)
 
 ## ✨ Core Features
 * **Bare-Metal Edge AI:** Runs a custom object detection neural network directly on the ESP32 silicon.
