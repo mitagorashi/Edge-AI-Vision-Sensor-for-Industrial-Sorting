@@ -1,6 +1,6 @@
 # Edge AI Vision Sensor for Real-Time Industrial Sorting
 
-![AI Vision Dashboard](pic1.jpg)
+![AI Vision Dashboard](pic1.png)
 
  A low-cost standalone vision sensor utilizing the FOMO algorithm for real-time object detection and classification on the ESP32-CAM.
 
