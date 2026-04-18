@@ -15,7 +15,7 @@ Instead of relying on an external computer or cloud processing, the AI model run
 <video src="media/20260408-1632-52.1919819.mp4" controls="controls" style="max-width: 100%;">
   Your browser does not support the video tag.
 </video>
-
+▶️ [Watch Full Demo Video](media/20260408-1632-52.1919819.mp4)
 ## ✨ Core Features
 * **Bare-Metal Edge AI:** Runs a custom object detection neural network directly on the ESP32 silicon.
 * **Independent Wi-Fi Access Point:** Operates as its own router, allowing secure, offline connections in hostile industrial environments.
