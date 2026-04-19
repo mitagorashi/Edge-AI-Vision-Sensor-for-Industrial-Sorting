@@ -66,10 +66,6 @@ This system mathematically analyzes video using a custom Edge Impulse pipeline o
 * **Brownout Detector:** If the ESP32 crashes during boot, ensure a strict 5V input and use a short USB cable to handle current spikes.
 * **Compute Bottleneck:** Running AI, encoding Base64, and serving Wi-Fi simultaneously limits the system to approximately 1 FPS.
 
-## 🔮 Future Architecture Upgrades
-For the final production phase at Kırşehir Ahi Evran University, the system will move to:
-1. **ESP32-S3:** For hardware-accelerated vector AI processing (~5 FPS).
-2. **Raspberry Pi 4 + ROS:** For high-speed (30+ FPS) YOLOv8 processing and full robotic integration.
 
 ---
 *Engineered by Mohammed Gorashi | Master's Program in Electrical and Electronics Engineering*
